@@ -106,4 +106,37 @@ for Linux
  step: 1  
  ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/c8c40358-8f53-48d1-aaea-f75f7fb83beb)
  step: 2  
- 
+ ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/55e99e6d-c9cb-4397-b99e-75105b50dcec)
+
+ step: 3 
+ ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/fac2e558-3600-4970-b193-6c27149bab40)
+ step: 4 
+ ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/3ecf4195-0423-4549-9bcb-d262d2c18776)
+
+# Cteating Load Balancing 
+ Step: 1 CHOOSE APPLICATION LOAD BALANCING 
+ ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/a17bac26-a665-4604-98c1-3de2e97c1f02)
+
+ Step: 2 
+ ![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/01b161de-9828-4411-9062-e446dfc4f888)
+
+STEP: 3 
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/ea9d7580-760c-4222-a8f8-f91850aa7e8d)
+
+STEP: 4 
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/7668dd4e-017f-4500-962d-3f276a0c2b65)
+
+# HELTH CHECK 
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/318af4cd-42e7-4993-8af2-ce03e26a33b7)
+
+# CHECKING THE LOAD IS REDIRECTING OR NOT:
+STEP 1 - GO TO LINK WHICH GIVEN WHEN LOAD BALANCER LUNCHED 
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/bb99d4b5-6dcc-44e2-a726-af885711c3f7)
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/13839019-c5f3-47b6-b494-02c8c5090959)
+
+STEP 2 - RELOAD THE PAGE AND IP ADDRSS WHICH CHANGE AND YOU WERE REDIRECTED TO THE OUTER INSTANCE IP ADRESS
+![image](https://github.com/Ayushkumar290/AWSS/assets/143092664/42283723-50b4-43eb-90b2-4f013e588018)
+
+**ALL INSTANCE HAVE TTO CUNTAIN SAME APPICATION**
+
+# AUTOSLACING
